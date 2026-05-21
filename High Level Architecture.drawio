@@ -1,15 +1,9 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="__FwhMC2_7rUrcnk8sKm">
-    <mxGraphModel dx="1542" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IoQfHVc7p1n8PndjbulK-11" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IoQfHVc7p1n8PndjbulK-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IoQfHVc7p1n8PndjbulK-9" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;User Service&lt;/li&gt;&lt;li&gt;Authentication Service&lt;/li&gt;&lt;li&gt;Loan Application Service&lt;/li&gt;&lt;li&gt;Loan Management Service&lt;/li&gt;&lt;li&gt;Notification Service&lt;/li&gt;&lt;/ol&gt;" vertex="1">
-          <mxGeometry height="120" width="234" x="283" y="340" as="geometry" />
-        </mxCell>
         <mxCell id="IoQfHVc7p1n8PndjbulK-5" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IoQfHVc7p1n8PndjbulK-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -22,11 +16,96 @@
         <mxCell id="IoQfHVc7p1n8PndjbulK-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API Gateaway" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-6" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="y_VrDlGGzGVoBng79Huq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="140" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-7" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="y_VrDlGGzGVoBng79Huq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="270" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-8" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="y_VrDlGGzGVoBng79Huq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-9" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="y_VrDlGGzGVoBng79Huq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="530" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-10" edge="1" parent="1" source="IoQfHVc7p1n8PndjbulK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y_VrDlGGzGVoBng79Huq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="660" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IoQfHVc7p1n8PndjbulK-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Application Services" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="300" as="geometry" />
         </mxCell>
         <mxCell id="IoQfHVc7p1n8PndjbulK-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-11" edge="1" parent="1" source="y_VrDlGGzGVoBng79Huq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IoQfHVc7p1n8PndjbulK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="480" />
+              <mxPoint x="400" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="User Service" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-12" edge="1" parent="1" source="y_VrDlGGzGVoBng79Huq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IoQfHVc7p1n8PndjbulK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="480" />
+              <mxPoint x="400" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Authentication Service" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-13" edge="1" parent="1" source="y_VrDlGGzGVoBng79Huq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IoQfHVc7p1n8PndjbulK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Loan Application Service" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-14" edge="1" parent="1" source="y_VrDlGGzGVoBng79Huq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IoQfHVc7p1n8PndjbulK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="480" />
+              <mxPoint x="400" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Loan Management Service" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-15" edge="1" parent="1" source="y_VrDlGGzGVoBng79Huq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IoQfHVc7p1n8PndjbulK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="480" />
+              <mxPoint x="400" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_VrDlGGzGVoBng79Huq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Loan Management Service" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
